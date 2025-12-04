@@ -6,8 +6,7 @@ npx wrangler deploy worker.js
 
 使用
 绑定域名/访问域名
-
-https://www.cloudflare.com/https://t.me/HeroCore
+(https://www.cloudflare.com/https://t.me/HeroCore)
 
 
 
