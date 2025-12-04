@@ -1,0 +1,3 @@
+name = "cloudflare-workers-proxy"
+compatibility_date = "2025-12-04"
+main = "worker.js"
